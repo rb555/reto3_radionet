@@ -1,2 +1,2 @@
-# reto3_radionet
-Spring Boot Apache Kafka Event Driven Microservicies.
+# radionet
+Spring Boot Apache Kafka Event Driven Microservices were used to create this application.
